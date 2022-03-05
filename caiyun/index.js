@@ -6,7 +6,7 @@ if ($response.statusCode != 200) {
 }
 
 const body = $response.body
-console.log(body)
+console.log(JSON.stringify(body))
 var bodyObj = JSON.parse(body)
 const fakeExpire = 2646216768.302436
 bodyObj.result.is_vip = true
