@@ -1,0 +1,92 @@
+{
+    "result": {
+        "xy_vip_expire": 0,
+        "vip_expired_at": 0,
+        "ranking_above": 0,
+        "auto_renewal_type": "",
+        "third_party_id": null,
+        "svip_expired_at": 1646216768.302436,
+        "is_login": true,
+        "is_xy_vip": false,
+        "platform_name": "apple",
+        "xy_svip_expire": 0,
+        "third_party_ids": [],
+        "score": 2000,
+        "is_xy_auto_renewal": false,
+        "is_primary": false,
+        "phone_num": "",
+        "free_trial": 0,
+        "last_acted_at": 1614680760.685412,
+        "vip_type": "",
+        "is_phone_verified": false,
+        "wt": {
+            "vip": {
+                "enabled": true,
+                "is_auto_renewal": false,
+                "auto_renewal_type": "",
+                "svip_auto_renewal_type": "",
+                "svip_expired_at": 1646216768.302436,
+                "expired_at": 0
+            },
+            "last_acted_at": 1614680760.685412,
+            "svip_given": 365,
+            "created_at": 1614680760.685412,
+            "is_login": true
+        },
+        "device_id": "A023E12A-6303-42F1-B1CD-CDBC33743E83",
+        "name": "***1025",
+        "bound_status": {
+            "qq": {
+                "username": "",
+                "is_bound": false,
+                "id": ""
+            },
+            "weibo": {
+                "username": "",
+                "is_bound": false,
+                "id": ""
+            },
+            "google": {
+                "username": "",
+                "is_bound": false,
+                "id": ""
+            },
+            "apple": {
+                "username": "***1025",
+                "is_bound": true,
+                "id": "603e12b827c15f00105c76b4"
+            },
+            "weixin": {
+                "username": "",
+                "is_bound": false,
+                "id": ""
+            },
+            "caiyun": {
+                "username": "",
+                "is_bound": false,
+                "id": ""
+            },
+            "twitter": {
+                "username": "",
+                "is_bound": false,
+                "id": ""
+            },
+            "facebook": {
+                "username": "",
+                "is_bound": false,
+                "id": ""
+            }
+        },
+        "created_at": 1614680760.685387,
+        "is_auto_renewal": false,
+        "hasBeenInvited": false,
+        "platform_id": "001900.240c0dbde6664eb8a6aa66c7bd132839.1025",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJ1c2VyX2lkIjoiNjAzZTEyYjgyN2MxNWYwMDEwNWM3NmI0Iiwic3ZpcF9leHBpcmVkX2F0IjoxNjQ2MjE2NzY4LjMwMjQzNiwidmlwX2V4cGlyZWRfYXQiOjB9.Gthme53ETNipXdYWOz90aP8W28EgncJ3jdWKtD2gna4",
+        "svip_given": 365,
+        "avatar": "",
+        "is_vip": false,
+        "gender": null,
+        "_id": "603e12b827c15f00105c76b4"
+    },
+    "rc": 0
+}
