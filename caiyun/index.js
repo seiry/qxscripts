@@ -7,12 +7,14 @@ if ($response.statusCode != 200) {
 
 const body = $response.body
 var bodyObj = JSON.parse(body)
+console.log(bodyObj)
 const fakeExpire = 2646216768.302436
 bodyObj.result.is_vip = true
 body.result.is_xy_vip = true
 bodyObj.result.svip_expired_at = fakeExpire
 bodyObj.xy_vip_expire = fakeExpire
 bodyObj.result.wt.vip.svip_expired_at = fakeExpire
+console.log(bodyObj)
 
 
 $done(JSON.stringify(bodyObj))
