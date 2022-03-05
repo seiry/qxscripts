@@ -5,10 +5,11 @@ if ($response.statusCode != 200) {
     $done(Null)
 }
 
+const fakeExpire = 2646216768.302436
+
 const body = $response.body
 console.log(JSON.stringify(body))
 var bodyObj = JSON.parse(body)
-const fakeExpire = 2646216768.302436
 bodyObj.result.is_vip = true
 body.result.is_xy_vip = true
 bodyObj.result.svip_expired_at = fakeExpire
